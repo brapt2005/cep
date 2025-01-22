@@ -1,0 +1,17 @@
+// Methane (fully atomistic) 
+graph G {
+layout="neato"
+graph [shape="square"];
+comment="nodes section"
+node  [style="filled"; shape="circle"];
+    1 [fillcolor="grey"   label="C, 1"]
+    2 [fillcolor="grey"   label="H, 2"]
+    3 [fillcolor="grey"   label="H, 3"]
+    4 [fillcolor="grey"   label="H, 4"]
+    5 [fillcolor="grey"   label="H, 5"]
+comment="edges section"
+    1--2 ;
+    1--3 ; 
+    1--4 ; 
+    1--5 ; 
+}
