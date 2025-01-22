@@ -1,0 +1,42 @@
+// neopentane, fully atomistic
+graph G {
+layout="neato"
+graph [shape="square"];
+comment="nodes section"
+node  [style="filled"; shape="circle"];
+    1 [fillcolor="white"  label="H, 1"]
+    2 [fillcolor="white"  label="H, 2"]
+    3 [fillcolor="white"  label="H, 3"]
+    4 [fillcolor="grey"   label="C, 4"]
+    5 [fillcolor="grey"   label="C, 5"]
+    6 [fillcolor="grey"   label="C, 6"]
+    7 [fillcolor="grey"   label="C, 7"]
+    8 [fillcolor="white"  label="H, 8"]
+    9 [fillcolor="white"  label="H, 9"]
+   10 [fillcolor="white"  label="H,10"]
+   11 [fillcolor="grey"   label="C,11"]
+   12 [fillcolor="white"  label="H,12"]
+   13 [fillcolor="white"  label="H,13"]
+   14 [fillcolor="white"  label="H,14"]
+   15 [fillcolor="white"  label="H,15"]
+   16 [fillcolor="white"  label="H,16"]
+   17 [fillcolor="white"  label="H,17"]
+comment="edges section"
+    1--4 ;
+    2--4 ; 
+    3--4 ; 
+    4--7 ; 
+    5--7 ; 
+    6--7 ; 
+    7--11; 
+    8--11;
+    9--11;
+   10--11;
+   12--5 ;
+   13--5 ;
+   14--5 ;
+   15--6 ;
+   16--6 ;
+   17--6 ;
+}
+

@@ -1,0 +1,24 @@
+// Linear alkanes (united atom) 
+graph G {
+layout="neato"
+graph [shape="square"];
+comment="nodes section"
+node  [style="filled"; shape="circle"];
+    1 [fillcolor="grey"   label="C3, 1"]
+    2 [fillcolor="grey"   label="C2, 2"]
+    3 [fillcolor="grey"   label="C2, 3"]
+    4 [fillcolor="grey"   label="C2, 4"]
+    5 [fillcolor="grey"   label="C2, 5"]
+    6 [fillcolor="grey"   label="C2, 6"]
+    7 [fillcolor="grey"   label="C2, 7"]
+    8 [fillcolor="grey"   label="C3, 8"]
+comment="edges section"
+    1--2 ;
+    2--3 ; 
+    3--4 ; 
+    4--5 ; 
+    5--6 ; 
+    6--7 ; 
+    7--8 ; 
+}
+

@@ -1,0 +1,24 @@
+// a strange molecule used as test case
+graph G {
+layout="neato"
+graph [shape="square"];
+comment="nodes section"
+node  [style="filled"; shape="circle"];
+    1 [fillcolor="red"    label="O, 1"]
+    2 [fillcolor="grey"   label="C, 2"]
+    3 [fillcolor="grey"   label="C, 3"]
+    4 [fillcolor="grey"   label="C, 4"]
+    5 [fillcolor="grey"   label="C, 5"]
+    6 [fillcolor="blue"   label="N, 6"]
+    7 [fillcolor="blue"   label="N, 7"]
+    8 [fillcolor="yellow" label="Cl,8"]
+comment="edges section"
+    1--2 ;
+    2--3 ; 
+    2--6 ; 
+    2--7 ; 
+    3--4 ; 
+    3--8 ; 
+    4--5 ; 
+}
+
