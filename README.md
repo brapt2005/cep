@@ -154,25 +154,27 @@ well as in a dedicated file, namely:
 
 ## 7. Literature
 
-1. I. Michos, V. Raptis. Graph Partitions in Chemistry. Entropy, **2023**, *25* 
+1. I. Michos, V. Raptis. Graph Partitions in Chemistry. *Entropy*, **2023**, *25* 
    (11), 1504.  
 2. Neave O’ Clery, Ye Yuan, Guy-Bart Stan, Mauricio Barahona. Observability and 
    coarse graining of consensus dynamics through the external equitable partition. 
-   Phys. Rev. E **2013**, *88*, 042805.  
+   *Phys. Rev. E* **2013**, *88*, 042805.  
 3. M. Cao, S. Zhang, and M. Camlibel. A Class of Uncontrollable Diffusively 
-   Coupled Multiagent Systems with Multichain Topologies. IEEE Transactions on 
-   Automatic Control **2013**, *58*, 465.  
-4. G. Hahn and G. Sabidussi. Graph Symmetry: Algebraic Methods and Applications, 
+   Coupled Multiagent Systems with Multichain Topologies. *IEEE Transactions on 
+   Automatic Control* **2013**, *58*, 465.  
+4. Sergey Krivovichev. Topological complexity of crystal structures: quantitative
+   approach, *Acta Cryst.* **2012**, *A68*, 393.
+5. G. Hahn and G. Sabidussi. Graph Symmetry: Algebraic Methods and Applications, 
    NATO ASI Series. Series C, Mathematical and Physical Sciences, Vol. 497 
    (Kluwer Academic Publishers, Dordrecht, 1997).  
-5. Brendan D. McKay. Practical Graph Isomorphism. Congressus Numerantium, **1981**, 
+6. Brendan D. McKay. Practical Graph Isomorphism. *Congressus Numerantium*, **1981**, 
   *30*, 45–87.  
-6. D. Cvetkovic, M. Doob, H. Sachs.  Spectra of Graphs: Theory & Application 
+7. D. Cvetkovic, M. Doob, H. Sachs.  Spectra of Graphs: Theory & Application 
    (Volume 87 of Pure and Applied Mathematics). Academic Press, 1980.  
-7. Brendan D. McKay. Computing automorphisms and canonical labellings of graphs. 
-   Combinator. Math. **1978**, *686*, 223–232.  
-8. D. G. Corneil and C. C. Cotlieb. An efficient algorithm for graph isomorphism, 
-   J. Assoc. Comput. Mach. **1970**, *17*, 51–64.  
+8. Brendan D. McKay. Computing automorphisms and canonical labellings of graphs. 
+   *Combinator. Math.* **1978**, *686*, 223–232.  
+9. D. G. Corneil and C. C. Cotlieb. An efficient algorithm for graph isomorphism, 
+   *J. Assoc. Comput. Mach.* **1970**, *17*, 51–64.  
 
 ## 8. Legal stuff, etc.
 This program implements an established algorithm to find the coarsest equitable 
