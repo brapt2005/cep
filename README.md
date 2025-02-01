@@ -154,27 +154,43 @@ well as in a dedicated file, namely:
 
 ## 7. Literature
 
-1. I. Michos, V. Raptis. Graph Partitions in Chemistry. *Entropy*, **2023**, *25* 
-   (11), 1504.  
-2. Neave O’ Clery, Ye Yuan, Guy-Bart Stan, Mauricio Barahona. Observability and 
-   coarse graining of consensus dynamics through the external equitable partition. 
-   *Phys. Rev. E* **2013**, *88*, 042805.  
-3. M. Cao, S. Zhang, and M. Camlibel. A Class of Uncontrollable Diffusively 
-   Coupled Multiagent Systems with Multichain Topologies. *IEEE Transactions on 
-   Automatic Control* **2013**, *58*, 465.  
-4. Sergey Krivovichev. Topological complexity of crystal structures: quantitative
-   approach, *Acta Cryst.* **2012**, *A68*, 393.
-5. G. Hahn and G. Sabidussi. Graph Symmetry: Algebraic Methods and Applications, 
-   NATO ASI Series. Series C, Mathematical and Physical Sciences, Vol. 497 
-   (Kluwer Academic Publishers, Dordrecht, 1997).  
-6. Brendan D. McKay. Practical Graph Isomorphism. *Congressus Numerantium*, **1981**, 
-  *30*, 45–87.  
-7. D. Cvetkovic, M. Doob, H. Sachs.  Spectra of Graphs: Theory & Application 
-   (Volume 87 of Pure and Applied Mathematics). Academic Press, 1980.  
-8. Brendan D. McKay. Computing automorphisms and canonical labellings of graphs. 
-   *Combinator. Math.* **1978**, *686*, 223–232.  
-9. D. G. Corneil and C. C. Cotlieb. An efficient algorithm for graph isomorphism, 
-   *J. Assoc. Comput. Mach.* **1970**, *17*, 51–64.  
+1.  I. Michos, V. Raptis. Graph Partitions in Chemistry. *Entropy*, **2023**, *25* 
+    (11), 1504.  
+2.  Neave O’ Clery, Ye Yuan, Guy-Bart Stan, Mauricio Barahona. Observability and 
+    coarse graining of consensus dynamics through the external equitable partition. 
+    *Phys. Rev. E* **2013**, *88*, 042805.  
+3.  M. Cao, S. Zhang, and M. Camlibel. A Class of Uncontrollable Diffusively 
+    Coupled Multiagent Systems with Multichain Topologies. *IEEE Transactions on 
+    Automatic Control* **2013**, *58*, 465.  
+4.  Sergey Krivovichev. Topological complexity of crystal structures: quantitative
+    approach, *Acta Cryst.* **2012**, *A68*, 393.
+5.  M. Dehmer, A. Mowshowitz. A history of graph entropy measures. *Inf. Sci.*,
+    **2011**, *181*, 57-78.
+6.  M. Dehmer, A. Mowshowitz. Inequalities for entropy-based measures of network
+    information content. *Appl. Math. Comput.*, **2010**, *215*, 4263–4271. 
+7.  G. Hahn and G. Sabidussi. Graph Symmetry: Algebraic Methods and Applications, 
+    NATO ASI Series. Series C, Mathematical and Physical Sciences, Vol. 497 
+    (Kluwer Academic Publishers, Dordrecht, 1997).  
+8.  Brendan D. McKay. Practical Graph Isomorphism. *Congressus Numerantium*, **1981**, 
+    *30*, 45–87.  
+9.  D. Cvetkovic, M. Doob, H. Sachs.  Spectra of Graphs: Theory & Application 
+    (Volume 87 of Pure and Applied Mathematics). Academic Press, 1980.  
+10. Brendan D. McKay. Computing automorphisms and canonical labellings of graphs. 
+    *Combinator. Math.* **1978**, *686*, 223–232.  
+11. D. G. Corneil and C. C. Cotlieb. An efficient algorithm for graph isomorphism, 
+    *J. Assoc. Comput. Mach.* **1970**, *17*, 51–64.
+12. A. Mowshowitz. Entropy and the Complexity of Graphs: IV. Entropy Measures and
+    Graphical Structure. *Bull. Math. Biophys.*, **1968**, *30*, 533-546.
+13. A. Mowshowitz. Entropy and the Complexity of Graphs: III. Graphs with Prescribed
+    Information Content. *Bull. Math. Biophys.*, **1968**, *30*, 387-414.     
+14. A. Mowshowitz. Entropy and the Complexity of Graphs: II. The Information Content
+    of Digraphs and Infinite Graphs. *Bull. Math. Biophys.*, **1968**, *30*, 225-240. 
+15. A. Mowshowitz. Entropy and the Complexity of Graphs: I. An Index of the Relative
+    Complexity of a Graph. *Bull. Math. Biophys.*, **1968**, *30*, 175-204. 
+16. E. Trucco. A Note on the Information Content of Graphs. *Bull. Math. Biophys.*,
+    **1956**, *18*, 129-135. 
+17. N. Rashevsky. Life, Information Theory, and Topology. *Bull. Math. Biophys.*,
+    **1955**, *17*, 229-235. 
 
 ## 8. Legal stuff, etc.
 This program implements an established algorithm to find the coarsest equitable 
