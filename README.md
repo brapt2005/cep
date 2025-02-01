@@ -203,6 +203,7 @@ Please cite as follows:
 Vasilios Raptis, 
 Chemical Equitable Partitions: Algorithm and Implementation, 
 https://github.com/brapt2005/cep (accessed on: ... insert date...)  
+[![DOI](https://zenodo.org/badge/920361206.svg)](https://doi.org/10.5281/zenodo.14787731)
 
 You may also cite the following article:  
 
